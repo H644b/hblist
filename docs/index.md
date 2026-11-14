@@ -37,3 +37,4 @@ hero:
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
+| Nick Cage Eats Stuff       | [Yes](https://github.com/PennyLoafer5/nces-switch2)                        | GitHub   | Games         | PennyLoafer, Cart1416        | Games |
