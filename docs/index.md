@@ -25,9 +25,6 @@ hero:
 | xStarbound                 | [Yes](https://github.com/Sergaliciousnes/xStarbound-Switch2)               | GitHub   | Games         | Sergalicious                 | Application |
 | Super Mario 64 EX          | [Yes](https://github.com/NerdsMcGee/sm64ex-alo-s2)                         | GitHub   | Games         | NerdsMcGee                   | Application |
 | Sonic 3 AIR                | [Yes](https://github.com/NerdsMcGee/sonic3air-s2)                          | GitHub   | Games         | NerdsMcGee                   | Application |
-| Sonic Time Twisted         | No                                                                         | [Website](https://misshexa.net/stt-ounce/index.html)  | Games    | Overbound Studio, Hexa       | Application |
-| TS!UNDERSWAP               | No                                                                         | [Website](https://misshexa.net/tsu-ounce/index.html)  | Games    | Team Switched, Hexa          | Application |
-| Undertale Yellow           | No                                                                         | [Website](https://misshexa.net/uty-ounce/index.html)  | Games    | Team Undertale Yellow, Hexa  | Application |
 | Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub                                                | Games    | Sonic Team Junior, Hexa      | Application |
 | Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub                                                | Games    | Kart Krew, Hexa              | Application |
 | Chiaki-ng/Akira            | [Yes](https://github.com/chiaki-ng/akira-ounce)                            | GitHub   | Streaming     | xlanor, streetpea, kkwong, and others | Application |
