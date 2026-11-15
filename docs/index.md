@@ -42,3 +42,4 @@ hero:
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
 | KaiTube                    | [Yes](https://github.com/Sank-kab/KaiTube)                                 | GitHub   | Streaming     | Sank-kab                     | Application |
+| KaiPlayer                  | [Yes](https://github.com/mizuiroame/kaiplayer)                             | GitHub   | Media         | Mizuiro                      | Application |
