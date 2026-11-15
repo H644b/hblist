@@ -39,3 +39,4 @@ hero:
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
 | KaiTube                    | [Yes](https://github.com/Sank-kab/KaiTube)                                 | GitHub   | Streaming     | Sank-kab                     | Application |
+| Angry Birds Reloaded       | [Yes](https://github.com/githubuser77777/abreloaded_nx2)                   | GitHub   | Games         | githubuser77777              | Application |
