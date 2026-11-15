@@ -42,4 +42,5 @@ hero:
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
 | KaiTube                    | [Yes](https://github.com/Sank-kab/KaiTube)                                 | GitHub   | Streaming     | Sank-kab                     | Application |
+| Super Smash Bros. Melee | [Yes](https://github.com/Prlxd/melee-switch2-port) | GitHub | Games | Prlxd | Application |
 | KaiPlayer                  | [Yes](https://github.com/mizuiroame/kaiplayer)                             | GitHub   | Media         | Mizuiro                      | Application |
