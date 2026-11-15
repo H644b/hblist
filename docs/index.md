@@ -33,6 +33,7 @@ hero:
 | UnleashedRecomp            | [Yes](https://github.com/Lightmaxifrvr/UnleashedRecomp-NX2)                | GitGub   | Games         | Lightmaxifrvr, hedge-dev and more | Application |
 | pokeplatinum               | [Yes](https://github.com/cybervisi0n/pokeplatinum)                         | GitHub   | Games         | cybervisi0n                  | Application |
 | Dusklight                  | [Yes](https://github.com/wowilookgood/dusklight)                           | GitHub   | Games         | wowilookgood, Twilit Realm   | Application |
+| Nic Cage Eats Stuff       | [Yes](https://github.com/PennyLoafer5/nces-switch2)                        | GitHub   | Games         | PennyLoafer, Cart1416        | Games |
 | Chiaki-ng/Akira            | [Yes](https://github.com/chiaki-ng/akira-ounce)                            | GitHub   | Streaming     | xlanor, streetpea, kkwong, and others | Application |
 | Moonlight                  | [Yes](https://gitlab.com/Azkali/moonlight-nx2)                             | GitLab   | Streaming     | Azkali                      | Application |
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
