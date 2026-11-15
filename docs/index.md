@@ -19,7 +19,7 @@ hero:
 | OunceShell                 | [Yes](https://github.com/kurumuz/ounceshell/)                              | Bundled  | Tools         | kurumuz, TheFl0W             | Application |
 | 90DNS Tester               | [Yes](https://github.com/souldbminerr/90DNS-Tester)                        | GitHub   | Tools         | Souldbminer                  | Application |
 | Force Internal Speaker     | [Yes](https://github.com/souldbminerr/switch_internal_speakers_nro)        | GitHub   | Tools         | Souldbminer, paulocode       | Application |
-| FTPD Plugin                | [Yes](https://github.com/NerdsMcGee/kaihen-ftpd-plugin)                    | GitHub   | Tools         | NerdsMcGee                   | Plugin      |
+| FTPD Plugin                | [Yes](https://github.com/NerdsMcGee/kaihen-ftpd-plugin)                    | GitHub   | Tools         | NerdsMcGee                   | Plugin |
 | Checkpoint                 | [Yes](https://github.com/wowilookgood/Checkpoint)                          | GitHub   | Tools         | wowilookgood, FlagBrew       | Application |
 | PKSM                       | [Yes](https://github.com/wowilookgood/PKSM)                                | GitHub   | Tools         | wowilookgood, FlagBrew       | Application |
 | NXGallery                  | [Yes](https://github.com/wowilookgood/NXGallery)                           | GitHub   | Tools         | wowilookgood, iUltimateLP    | Application |
@@ -34,7 +34,7 @@ hero:
 | pokeplatinum               | [Yes](https://github.com/cybervisi0n/pokeplatinum)                         | GitHub   | Games         | cybervisi0n                  | Application |
 | Dusklight                  | [Yes](https://github.com/wowilookgood/dusklight)                           | GitHub   | Games         | wowilookgood, Twilit Realm   | Application |
 | Chiaki-ng/Akira            | [Yes](https://github.com/chiaki-ng/akira-ounce)                            | GitHub   | Streaming     | xlanor, streetpea, kkwong, and others | Application |
-| Moonlight                  | [Yes](https://gitlab.com/Azkali/moonlight-nx2)                             | GitLab   | Streaming     | Azkali                       | Application |
+| Moonlight                  | [Yes](https://gitlab.com/Azkali/moonlight-nx2)                             | GitLab   | Streaming     | Azkali                      | Application |
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
 | Donut                      | [Yes](https://github.com/Rix565/ouncedonut/)                               | GitHub   | Fun           | Rix565                       | Application |
 | Bad Apple!                 | [Yes](https://github.com/souldbminerr/bad-apple-switch/)                   | GitHub   | Fun           | Souldbminer                  | Application |
